@@ -1,8 +1,8 @@
 # Ring_VCO <br/>
 
 # Table Of Content <br/>
-* [Abstract](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#abstract-)<br/>
-* [Reference Circuit Diagram](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#dReference-Circuit-Diagram-)<br/>
+* [Abstract](https://github.com/Mahima-Goyen/Ring_VCO#abstract)<br/>
+* [Reference Circuit Diagram](https://github.com/Mahima-Goyen/Ring_VCO#dReference-Circuit-Diagram-)<br/>
 * [Schematic](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#Schematic-)<br/>
 * [Expected Results](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md.md#Expected-Results-)<br/>
 * [Simulation Results](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#Simulation-Results-)<br/>
