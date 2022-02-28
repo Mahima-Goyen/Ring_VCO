@@ -2,22 +2,24 @@
 
 # Table Of Content <br/>
 * [Abstract](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#abstract-)<br/>
-* [Detailed Explanation with reference Block diagram](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#detailed-explanation-with-reference-block-diagram)<br/>
-* [Tool used](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#tool-used)<br/>
-* [Inverter](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#inverter)<br/>
-* [AND](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md.md#and-)<br/>
-* [XOR implementation using Transmission logic](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#xor-implementation-using-transmission-logic-)<br/>
+* [Reference Circuit Diagram](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#dReference-Circuit-Diagram-)<br/>
+* [Schematic](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#Schematic-)<br/>
+* [Expected Results](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md.md#Expected-Results-)<br/>
+* [Simulation Results](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#Simulation-Results-)<br/>
 * [Netlist](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#netlist)<br/>
 * [Author](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#author)<br/>
 * [Acknowledgements](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#acknowledgements-)<br/>
 * [Reference](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#reference-)<br/>
-# Abstract <br/>
-
+# Abstract<br/>
+A voltage-controlled oscillator is an electronic oscillator whose oscillation frequency is controlled by a voltage input. The applied input voltage determines the instantaneous oscillation frequency. A conventional VCO has different structural and performance parameters due to its wide range of applications in various environmental conditions.The basic circuit structure of this study is designed and implemented using the symmetrical load differential VCO structure, because it has many advantages. The design is implemented using Synopsys tool using 28nm technology node. 
 
 # Reference Circuit Diagram<br/>
-![image](https://user-images.githubusercontent.com/100615611/156039714-a9fbcf1c-9ff4-40f3-b960-41adcdeaa7e4.png)
+![image](https://user-images.githubusercontent.com/100615611/156039758-b97fe2d3-df31-4414-80a2-adbbf0a73d95.png)<br/>
+There are two circuit blocks added to design the new differential VCO extension. The first one is called the swing enhanced block and the second is called self-excitation tube.
+The voltage control technique uses the body bias voltage of the nMOS transistor, which in turn changes the voltage threshold of the transistor.
 <br/>
-![image](https://user-images.githubusercontent.com/100615611/156039758-b97fe2d3-df31-4414-80a2-adbbf0a73d95.png)
+![image](https://user-images.githubusercontent.com/100615611/156039714-a9fbcf1c-9ff4-40f3-b960-41adcdeaa7e4.png)<br/>
+In this work, a 3-stage ring oscillator is used where each stage is a modified version of the differential symmetrical load delay. 
 
 # Schematic<br/>
 1. BIAS GENERATOR<br/>
@@ -43,10 +45,10 @@
 ![image](https://user-images.githubusercontent.com/100615611/156037769-a591f095-72a9-468d-867a-aee673031abe.png)
 
 
-# Expected Results <br/>
+# Expected Results<br/>
  ![image](https://user-images.githubusercontent.com/100615611/156039589-03cb4df2-13ad-4a0a-a967-7adb32fa27a3.png)
  
-# Results<br/>
+# Simulation Results<br/>
 ![image](https://user-images.githubusercontent.com/100615611/156037458-8d2a0176-1520-4656-9c09-4add9b52e469.png)
 ![image](https://user-images.githubusercontent.com/100615611/156037683-b11efbf3-a1bb-4d5c-a22a-fea69efabdd8.png)
 # Netlist<br/>
