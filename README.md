@@ -43,7 +43,7 @@ Schematic:
 ![image](https://user-images.githubusercontent.com/100615611/156037458-8d2a0176-1520-4656-9c09-4add9b52e469.png)
 ![image](https://user-images.githubusercontent.com/100615611/156037683-b11efbf3-a1bb-4d5c-a22a-fea69efabdd8.png)
 # Netlist<br/>
-You can view the circuit netlists [here](https://github.com/MahishaBM/8-bit-Carry-Select-Adder-with-Binary-to-Excess-One-Converter/tree/main/Netlist)<br/>
+You can view the circuit netlists [here](https://github.com/Mahima-Goyen/Ring_VCO/blob/main/Netlist)<br/>
 # Author<br/>
 Mahima Goyen<br/>
 # Acknowledgements <br/>
