@@ -2,14 +2,14 @@
 
 # Table Of Content <br/>
 * [Abstract](https://github.com/Mahima-Goyen/Ring_VCO#abstract)<br/>
-* [Reference Circuit Diagram](https://github.com/Mahima-Goyen/Ring_VCO#dReference-Circuit-Diagram-)<br/>
-* [Schematic](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#Schematic-)<br/>
-* [Expected Results](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md.md#Expected-Results-)<br/>
-* [Simulation Results](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#Simulation-Results-)<br/>
-* [Netlist](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#netlist)<br/>
-* [Author](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#author)<br/>
-* [Acknowledgements](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#acknowledgements-)<br/>
-* [Reference](https://github.com/Mahima-Goyen/Ring_VCO/edit/main/README.md#reference-)<br/>
+* [Reference Circuit Diagram](https://github.com/Mahima-Goyen/Ring_VCO#reference-circuit-diagram)<br/>
+* [Schematic](https://github.com/Mahima-Goyen/Ring_VCO#schematic)<br/>
+* [Expected Results](https://github.com/Mahima-Goyen/Ring_VCO#expected-results)<br/>
+* [Simulation Results](https://github.com/Mahima-Goyen/Ring_VCO#simulation-results)<br/>
+* [Netlist](https://github.com/Mahima-Goyen/Ring_VCO#netlist)<br/>
+* [Author](https://github.com/Mahima-Goyen/Ring_VCO#author)<br/>
+* [Acknowledgements](https://github.com/Mahima-Goyen/Ring_VCO#acknowledgements-)<br/>
+* [Reference](https://github.com/Mahima-Goyen/Ring_VCO#reference-)<br/>
 # Abstract<br/>
 A voltage-controlled oscillator is an electronic oscillator whose oscillation frequency is controlled by a voltage input. The applied input voltage determines the instantaneous oscillation frequency. A conventional VCO has different structural and performance parameters due to its wide range of applications in various environmental conditions.The basic circuit structure of this study is designed and implemented using the symmetrical load differential VCO structure, because it has many advantages. The design is implemented using Synopsys tool using 28nm technology node. 
 
