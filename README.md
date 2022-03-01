@@ -55,6 +55,7 @@ Vdc = 0.8 V
  *Figure 10 - Expected Transient Response*<br/>
 # Simulation Results<br/>
 ![image](https://user-images.githubusercontent.com/100615611/156037458-8d2a0176-1520-4656-9c09-4add9b52e469.png)<br/>
+The oscillation settles between 0.2 and 0.9 Volt
  *Figure 11 - Transient Response*<br/>
 ![image](https://user-images.githubusercontent.com/100615611/156037683-b11efbf3-a1bb-4d5c-a22a-fea69efabdd8.png)<br/>
  *Figure 12 - Transient Response (Zoomed Out)*<br/>
